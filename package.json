@@ -71,7 +71,7 @@
     "ios >= 8"
   ],
   "dependencies": {
-    "@babel/runtime": "^7.17.9",
+    "@babel/runtime": "^7.18.0",
     "@tarojs/components": "3.4.9",
     "@tarojs/plugin-framework-react": "3.4.9",
     "@tarojs/react": "3.4.9",
