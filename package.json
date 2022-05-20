@@ -106,7 +106,7 @@
     "babel-preset-taro": "3.4.9",
     "cross-env": "^7.0.3",
     "del": "^6.1.0",
-    "dumi": "^1.1.40",
+    "dumi": "^1.1.42",
     "eslint": "^8.15.0",
     "eslint-config-alloy": "^4.5.1",
     "eslint-plugin-react": "^7.30.0",
